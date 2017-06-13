@@ -1,0 +1,11 @@
+name: BadgeOfInfamy
+main: com.simplexservers.minecraft.badgeofinfamy.Main
+version: 1.2.1
+author: Zach Abney
+depend: [Vault]
+description: A vote based punishment system for those naughty players!
+commands:
+  boi:
+    description: Shows the help page for BadgeOfInfamy.
+  pardon:
+    description: Votes to pardon a naughty player.
